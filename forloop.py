@@ -1,0 +1,10 @@
+import turtle
+turtle.forward(100)
+turtle.right(90)
+turtle.forward(100)
+turtle.right(90)
+turtle.color("red")
+turtle.forward(100)
+print(type(turtle.color()))
+print(type(turtle.forward))
+print("**************")
